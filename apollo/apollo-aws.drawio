@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T09:23:29.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dKivxOQp7Tl9opvx3XTp" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T14:23:35.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="V-rI5qhzL2iZRhzDR97t" version="14.1.8" type="github">
   <diagram id="kFIFrGbDQsV5YvxOIdgo" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-30" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#00CC00;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="162" y="634" width="340" height="126" as="geometry" />
+          <mxGeometry x="316" y="358" width="170" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#00CC00;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="180" width="610" height="510" as="geometry" />
@@ -53,64 +53,70 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-22" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" parent="1" vertex="1">
-          <mxGeometry x="266" y="363" width="102" height="102" as="geometry" />
+          <mxGeometry x="173" y="265" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-24" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="317" y="304" as="sourcePoint" />
-            <mxPoint x="316.5" y="358" as="targetPoint" />
+            <mxPoint x="260" y="488.5" as="sourcePoint" />
+            <mxPoint x="300" y="488.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HmWRv2XXiwyb1ps0FjEp-25" value="&lt;font style=&quot;font-size: 15px&quot; face=&quot;Verdana&quot;&gt;UI Demo Apps&lt;br&gt;(CloudFront Distributions)&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeColor=#007FFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="480" width="214" height="50" as="geometry" />
+        <mxCell id="HmWRv2XXiwyb1ps0FjEp-25" value="&lt;font style=&quot;font-size: 13px&quot; face=&quot;Verdana&quot;&gt;UI Demo Apps&lt;br&gt;&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeColor=#007FFF;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="307" y="690" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-26" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
-          <mxGeometry x="288" y="210" width="58" height="58" as="geometry" />
+          <mxGeometry x="187.5" y="460" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-32" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="414" as="sourcePoint" />
-            <mxPoint x="520" y="414" as="targetPoint" />
+            <mxPoint x="319" y="308" as="sourcePoint" />
+            <mxPoint x="481" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-33" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Verdana&quot;&gt;Apollo&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#007FFF;" parent="1" vertex="1">
-          <mxGeometry x="276" y="280" width="82" height="16" as="geometry" />
+          <mxGeometry x="175.5" y="530" width="82" height="16" as="geometry" />
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-34" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Verdana&quot;&gt;AO&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeColor=#007FFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="178" y="730" width="82" height="16" as="geometry" />
+          <mxGeometry x="362" y="440" width="80" height="16" as="geometry" />
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-37" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" parent="1" vertex="1">
-          <mxGeometry x="125" y="390.5" width="50" height="37" as="geometry" />
+          <mxGeometry x="30" y="290" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="HmWRv2XXiwyb1ps0FjEp-38" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="413" as="sourcePoint" />
-            <mxPoint x="250" y="413" as="targetPoint" />
+            <mxPoint x="88" y="310" as="sourcePoint" />
+            <mxPoint x="148" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwTjNrSDl92EZhl1OhOF-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="190" y="660" width="58" height="58" as="geometry" />
+        <mxCell id="zwTjNrSDl92EZhl1OhOF-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
+          <mxGeometry x="371" y="370" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="zwTjNrSDl92EZhl1OhOF-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="288" y="660" width="58" height="58" as="geometry" />
+        <mxCell id="zwTjNrSDl92EZhl1OhOF-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
+          <mxGeometry x="373" y="472" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="zwTjNrSDl92EZhl1OhOF-4" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="390" y="660" width="58" height="58" as="geometry" />
+        <mxCell id="zwTjNrSDl92EZhl1OhOF-4" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
+          <mxGeometry x="371" y="570" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="zwTjNrSDl92EZhl1OhOF-5" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Verdana&quot;&gt;UL&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeColor=#007FFF;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="730" width="82" height="16" as="geometry" />
+        <mxCell id="zwTjNrSDl92EZhl1OhOF-5" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Verdana&quot;&gt;UL&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeColor=#007FFF;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="361" y="537" width="80" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="zwTjNrSDl92EZhl1OhOF-6" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Verdana&quot;&gt;JO&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeColor=#007FFF;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="378" y="730" width="82" height="16" as="geometry" />
+        <mxCell id="zwTjNrSDl92EZhl1OhOF-6" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Verdana&quot;&gt;JO&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeColor=#007FFF;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="359" y="640" width="82" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="zwTjNrSDl92EZhl1OhOF-12" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="zwTjNrSDl92EZhl1OhOF-12" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="316.5" y="620" as="sourcePoint" />
-            <mxPoint x="316.5" y="540" as="targetPoint" />
+            <mxPoint x="216" y="449" as="sourcePoint" />
+            <mxPoint x="216" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwTjNrSDl92EZhl1OhOF-15" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;web apps will be hosted in s3 (configured as &#39;static websites&#39;)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;access to web apps ONLY via CloudFront distribution URLs&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;direct access to S3 blocked with OAI (Origin Access Identity)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;API hosted in a EB environment&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;Optional HA available in EB via ALB (Application Load Balancer)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;Access to prod DB restricted with security groups which ONLY allows inbound traffic originating from EC2 instances managed by EB&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;DB is deployed in a Multi-AZ cluster&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;rounded=1;sketch=1;labelPosition=center;verticalLabelPosition=middle;align=left;dashed=1;strokeColor=#99004D;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="410" height="180" as="geometry" />
+        <mxCell id="zwTjNrSDl92EZhl1OhOF-15" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;web apps will be hosted in s3 (configured as &#39;static websites&#39;)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;access to web apps ONLY via CloudFront distribution URLs&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;direct access to S3 blocked with OAI (Origin Access Identity)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;API hosted in a EB environment&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;Optional HA available in EB via ALB (Application Load Balancer)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;Access to prod DB restricted with security groups which ONLY allows inbound traffic originating from EC2 instances managed by EB&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;DB is deployed in a Multi-AZ cluster&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;rounded=1;sketch=1;labelPosition=center;verticalLabelPosition=middle;align=left;dashed=1;strokeColor=#99004D;" parent="1" vertex="1">
+          <mxGeometry x="38" y="10" width="410" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U4BZpOQKBf7YvKUWMSjH-1" value="&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;&lt;u&gt;AWS Services&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;AWS DocumentDB (Apollo DB)&lt;/li&gt;&lt;li&gt;AWS Elastic Beanstalk (Apollo API)&lt;/li&gt;&lt;li&gt;CloudFront + S3 (Originate Demo Apps)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;rounded=1;sketch=1;labelPosition=center;verticalLabelPosition=middle;align=left;dashed=1;strokeColor=#99004D;" vertex="1" parent="1">
+          <mxGeometry x="890" y="10" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U4BZpOQKBf7YvKUWMSjH-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: verdana; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;CloudFront Distributions&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;sketch=1;rounded=1;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
