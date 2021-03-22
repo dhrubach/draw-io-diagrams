@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T18:54:09.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9GAqzot6DkRJ-e7FIl0n" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T18:57:44.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="uq3HL7G-YgmxNBfQ0NGO" version="14.4.9" type="github">
   <diagram id="Nc_v12AOeJOrXmATifCL" name="Page-1">
-    <mxGraphModel dx="1262" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1073" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -369,6 +369,9 @@
         </mxCell>
         <mxCell id="Uq6jBA9CxELSbBsubBTR-110" value="&lt;span style=&quot;font-size: 12px&quot;&gt;df-subnet-private-eb-1f&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="Uq6jBA9CxELSbBsubBTR-108">
           <mxGeometry x="177" width="176" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq6jBA9CxELSbBsubBTR-111" value="&lt;font face=&quot;Lucida Console&quot;&gt;data encrypted with KMS key&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 2;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1391" y="468.5" width="129" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
