@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T17:56:58.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="B3MOgrd9NGfSSQb2hj8d" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T18:06:46.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GMM7lBD4mGRJ4Hug8127" version="14.5.0" type="github">
   <diagram id="Nc_v12AOeJOrXmATifCL" name="Page-1">
     <mxGraphModel dx="1011" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uq6jBA9CxELSbBsubBTR-23" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#336600;fillColor=none;gradientColor=#ffffff;fontColor=#143642;align=left;strokeWidth=2;dashPattern=1 4;" parent="1" vertex="1">
-          <mxGeometry x="570" y="237" width="567" height="493" as="geometry" />
+          <mxGeometry x="610" y="237" width="567" height="493" as="geometry" />
         </mxCell>
         <mxCell id="0ljy_1kGSOHufowf5Dnn-16" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#336600;fillColor=none;gradientColor=#ffffff;fontColor=#143642;align=left;strokeWidth=2;dashPattern=1 4;" parent="1" vertex="1">
           <mxGeometry x="1250" y="237" width="310" height="493" as="geometry" />
@@ -77,8 +77,8 @@
         <mxCell id="0ljy_1kGSOHufowf5Dnn-18" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TCP PORT 27017&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;strokeWidth=2;fillColor=none;gradientColor=#ffffff;fontColor=#143642;align=left;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1171" y="450" width="139" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ljy_1kGSOHufowf5Dnn-19" value="&lt;h1 style=&quot;text-align: justify ; font-size: 18px&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px&quot;&gt;AWS DocumentDB&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: justify ; font-size: 18px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;align=center;verticalAlign=top;fillColor=#ffe6cc;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="190" width="170" height="30" as="geometry" />
+        <mxCell id="0ljy_1kGSOHufowf5Dnn-19" value="&lt;h1 style=&quot;text-align: justify ; font-size: 14px&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;AWS DocumentDB&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: justify ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;spacing=5;spacingTop=-17;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;align=center;verticalAlign=top;fillColor=#ffe6cc;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="210" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ljy_1kGSOHufowf5Dnn-21" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;rounded=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1200" y="794" width="60" height="60" as="geometry" />
@@ -204,9 +204,6 @@
           <mxGeometry x="-0.0441" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Uq6jBA9CxELSbBsubBTR-39" value="&lt;font face=&quot;Lucida Console&quot;&gt;Public ALB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 2;sketch=0;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="500" y="519" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Uq6jBA9CxELSbBsubBTR-40" value="" style="endArrow=classic;html=1;strokeColor=#A8201A;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Uq6jBA9CxELSbBsubBTR-6" target="Uq6jBA9CxELSbBsubBTR-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -456,12 +453,6 @@
         <mxCell id="ptfrSFmL0BJyFLqSHpGc-28" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
           <mxGeometry x="106.75" y="590" width="46.5" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="ptfrSFmL0BJyFLqSHpGc-29" value="&lt;font face=&quot;Lucida Console&quot;&gt;CloudFront Distributions&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 2;sketch=0;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="20" y="519" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ptfrSFmL0BJyFLqSHpGc-30" value="&lt;font face=&quot;Lucida Console&quot;&gt;S3 Buckets&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 2;sketch=0;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="20" y="790" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ptfrSFmL0BJyFLqSHpGc-32" value="&lt;font face=&quot;Lucida Console&quot;&gt;Demo Video Files&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 2;sketch=0;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="328.28" y="644.72" width="81.72" height="28.56" as="geometry" />
         </mxCell>
@@ -583,6 +574,15 @@
           <mxGeometry x="0.1579" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ptfrSFmL0BJyFLqSHpGc-74" value="&lt;h1 style=&quot;text-align: justify&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;ALB&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#d79b00;spacing=5;spacingTop=-32;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;align=center;verticalAlign=top;fillColor=#ffe6cc;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="535" y="519" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ptfrSFmL0BJyFLqSHpGc-76" value="&lt;h1&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;line-height: 100% ; font-size: 12px&quot;&gt;S3 Buckets&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#d79b00;spacing=5;spacingTop=-29;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;align=left;verticalAlign=middle;fillColor=#ffe6cc;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="25" y="794" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ptfrSFmL0BJyFLqSHpGc-78" value="&lt;h1&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;line-height: 100% ; font-size: 12px&quot;&gt;CloudFront Distributions&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#d79b00;spacing=5;spacingTop=-26;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;align=center;verticalAlign=middle;fillColor=#ffe6cc;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="17.94" y="494.25" width="104.12" height="55.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
